@@ -13,3 +13,4 @@ sprites/phaser_labs_orb-red.png | Phaser.io orb sprite | http://labs.phaser.io/a
 sprites/phaser_labs_platform.png | Phaser.io simple demo platform | http://labs.phaser.io/assets/sprites/platform.png
 sprites/phaser_labs_skull.png | Phaser.io skull sprite example | http://labs.phaser.io/assets/sprites/skull.png
 sprites/bevouliin-free-flying-bird-game-character-sprite-sheets | flying bird game character | https://opengameart.org/content/bevouliin-free-flying-bird-game-character-sprite-sheets
+sprites/synethic223_cloud_pack | https://opengameart.org/content/cloud-pack
