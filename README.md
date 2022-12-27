@@ -14,3 +14,4 @@ sprites/phaser_labs_platform.png | Phaser.io simple demo platform | http://labs.
 sprites/phaser_labs_skull.png | Phaser.io skull sprite example | http://labs.phaser.io/assets/sprites/skull.png
 sprites/bevouliin-free-flying-bird-game-character-sprite-sheets | flying bird game character | https://opengameart.org/content/bevouliin-free-flying-bird-game-character-sprite-sheets
 sprites/synethic223_cloud_pack | https://opengameart.org/content/cloud-pack
+particles/phaser_labs_red.png | Phaser.io demo Hello World! particle asset (https://phaser.io/tutorials/getting-started-phaser3/part5) | https://labs.phaser.io/assets/particles/red.png
